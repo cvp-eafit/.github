@@ -14,5 +14,4 @@ Somos el [Centro de Valor Público](https://www.eafit.edu.co/centros-estudio-inc
 
 ---
 
-**Santiago Leyva Botero & [Juan Carlos Muñoz-Mora](https://www.jcmunozmora.co)**
-[cvp-eafit.github.io](https://cvp-eafit.github.io) · [EAFIT Valor Público](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico)
+[cvp-eafit.github.io](https://cvp-eafit.github.io) · [eafit.edu.co/valor-publico](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico)
